@@ -1,16 +1,17 @@
-### Hi there 👋
+# 🍭 Hi there ! 
+<img align="right" src="https://cdn128.picsart.com/212176513001202.gif"/>
 
-<!--
-**santvaz/santvaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Sandra** and I'm from Spain! 
 
-Here are some ideas to get you started:
+Currently working on my final degree project to get my master's degree in **Web Development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Also learning front-end tools like **JavaScript**, **Astro**, **Tailwind** and looking forward to learning **TypeScript** and **Angular**.
+
+<br>
+
+## 🌸 Technologies
+- JavaScript
+- PHP
+- HTML5
+- Java
+- Tailwind, Bootstrap
