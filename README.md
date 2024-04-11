@@ -1,5 +1,5 @@
 # 🍭 Hi there ! 
-<img align="right" src="https://cdn128.picsart.com/212176513001202.gif"/>
+<img align='right' src="https://cdn128.picsart.com/212176513001202.gif" width='200'/>
 
 My name is **Sandra** and I'm from Spain! 
 
