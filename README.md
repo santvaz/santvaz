@@ -10,6 +10,7 @@ Also learning front-end tools like **JavaScript**, **Astro**, **Tailwind** and l
 <br>
 
 ## 🌸 Technologies
+- Astro JS
 - JavaScript
 - PHP
 - HTML5
