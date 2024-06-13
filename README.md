@@ -3,16 +3,16 @@
 
 My name is **Sandra** and I'm from Spain! 
 
-Currently working on my final degree project to get my master's degree in **Web Development**.
+I've just finished my Master's Degree in **Frontend Web Development**. Currently working on my personal projects to build my portfolio! 😊 
 
-Also learning front-end tools like **JavaScript**, **Astro**, **Tailwind** and looking forward to learning **TypeScript** and **Angular**.
+Also learning front-end tools like **React**,**NextJS**
 
 <br>
 
 ## 🌸 Technologies
-- Astro JS
+- TypeScript
 - JavaScript
 - PHP
 - HTML5
 - Java
-- Tailwind, Bootstrap
+- Tailwind | Bootstrap
