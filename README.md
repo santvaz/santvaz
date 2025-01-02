@@ -1,22 +1,17 @@
 # 🍭 Hi there ! 
 <img align='right' src="https://cdn128.picsart.com/212176513001202.gif" width='170'/>
 
-My name is **Sandra** and I'm from Spain! 
-
-I've just finished my Master's Degree in **Frontend Web Development**. Currently working on my personal projects to build my portfolio! 😊 
-
-Currently working on UI frameworks like React and trying to dive into my favorite stack: **React**, **NodeJS**, **TypeScript/JavaScript** and **TailwindCSS**.
-
-I'm a big fan of UX/UI and Penetration Testing, hopefully I'll be able to expand my knowledge through these amazing mini worlds. 
-<br>
-
-## 🌸 Technologies
-- TypeScript / JavaScript
-- React
-- TailwindCSS / Bootstrap
-- NextJS
-- NodeJS
-
 ## ✨ About me 
-More onto the personal side, I'm looking forward to taking the **C2 Cambridge CEFR Certification** & **eJPT Certification from INE Security**.
+My name is **Sandra** and I'm from Spain!
 
+I'm currently working at BBVA Technology as a Software Developer, collaborating with enterprise customers, which involves optimizing batch and online backend systems to meet global financial user requirements.   
+<br>
+## 🌸 My current tech stack
+- Java
+- COBOL
+- JCL (Job Control Language)
+
+## 📥 Find me on:
+<a href="https://www.linkedin.com/in/santvaz/" target="_blank">
+  <img src="https://i.pinimg.com/originals/0c/78/d0/0c78d03cbfa19d5f3d7ad1b6e49f957b.png" width="50" height="50" alt="LinkedIn" style="border-radius: 10px;">
+</a>
